@@ -1,1 +1,6 @@
 blah
+
+foo
+bar
+bin
+bash
